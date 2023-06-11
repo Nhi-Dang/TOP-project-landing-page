@@ -13,3 +13,25 @@ body {
     justify-content: space-between;
     padding: 0 100px;
 }
+
+.one {
+    padding: 25px 100px 75px;
+    display: flex;
+    background-color: #1F2937;
+}
+
+.left {
+    flex: 1 1 auto;
+    font-size: 18px;
+    color: #e5E7EB;
+}
+
+.headerimage {
+    flex: 1 1 auto;
+    background-color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+
+}
