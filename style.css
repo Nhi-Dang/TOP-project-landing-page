@@ -85,3 +85,18 @@ button {
     
 }
 
+.three {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    font-weight: bold;
+}
+
+.three > .quote {
+    font-weight: light;
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+}
