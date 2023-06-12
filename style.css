@@ -100,3 +100,13 @@ button {
     font-size: 36px;
     color: #1F2937;
 }
+
+.four {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    margin: 25px 100px;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
