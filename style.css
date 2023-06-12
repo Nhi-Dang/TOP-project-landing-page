@@ -33,14 +33,15 @@ h1 {
 }
 
 .left {
-    flex: 1 1 auto;
+    flex: 1 1 0;
     font-size: 18px;
     color: #e5E7EB;
 }
 
 .headerimage {
-    flex: 1 1 auto;
+    flex: 1 1 0;
     background-color: #E5E7EB;
+    text-align: center;
 }
 
 button {
